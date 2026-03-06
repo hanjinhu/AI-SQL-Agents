@@ -1,6 +1,6 @@
-# 
-
 # Build with AI: SQL Agents with Large Language Models
+
+[Course Link](https://www.linkedin.com/learning-login/share?account=104315042&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fbuild-with-ai-sql-agents-with-large-language-models%3Ftrk%3Dshare_ent_url%26shareId%3DRCq6uOvkT6afahvFw5SXcw%253D%253D)
 
 ## 1. Python Environment and Database Setup for SQL Agents
 
